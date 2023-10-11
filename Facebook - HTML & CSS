@@ -1,0 +1,79 @@
+//Code for Facebook.html
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Facebook-Login</title>
+        <link rel="stylesheet" href="face.css"/>
+    </head>
+    <body>
+        <h1 id="fbname" style="color:rgb(8, 102, 255);text-align:center">facebook</h1>
+        <div id="Card1">
+            <h4 style="color:black;font-size:20px">Login to facebook</h4>
+            <input id="cont1" type="text" placeholder="Enter address or phone number"/>
+            <br />
+            <br />
+            <input id="cont2" type="password" placeholder="Password"/>
+            <br />
+            <br />
+            <button id="cont3" style="background-color:rgb(8, 102, 255);color:white"><b>Log in</b></button> 
+            <br />
+            <br />
+            <a
+            href="https://www.facebook.com/login/identify/?ctx=recover&ars=facebook_login&from_login_screen=0">Forgotten Account?</a>
+
+            &nbsp; &nbsp;<a href="https://www.facebook.com/r.php?locale=en_GB&display=page">Sign up for Facebook</a>
+    </div>
+    </body>
+</html>
+
+//Code for face.css
+
+body{
+    padding: 30px;
+    background-color: #f0f0f0;
+}
+
+#fbname{
+    font-family:  Helvetica, Arial, sans-serif;
+    font-style: bold;
+    font-size: 50px;
+}
+
+#Card1{
+    border: 5px;
+    width: 400px;
+    height:320px;
+    text-align: center;
+    padding: 10px;
+    padding-top: 5px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#cont1{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+}
+#cont2{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin: 0;
+}
+#cont3{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 365px;
+}
+
+
