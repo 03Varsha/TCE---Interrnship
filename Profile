@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DAY1</title>
+    </head>
+    <body>
+        <h1>Resume</h1>
+        <img src="https://wallpapers.com/images/hd/studious-cool-girl-cartoon-yumrtk7cy50vu7u0.jpg" alt="Image not found"  height="200px">
+        <br>
+        <br>
+        <hr /> 
+        <h3>ABOUT ME</h3>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, nobis. Doloremque iste sint, laborum voluptas eaque labore, dicta optio repudiandae atque facere quaerat numquam dolor ut ipsa dolores a quibusdam officiis in accusamus consectetur necessitatibus! Fuga nam iste praesentium sapiente totam amet odit assumenda, modi delectus voluptatem iusto ex voluptate possimus placeat iure deserunt nisi laudantium obcaecati? Voluptatum, dolorem. At vero adipisci nobis ratione molestiae aperiam soluta ab labore totam distinctio, delectus porro non quibusdam.
+        </p>
+        <hr>
+        <h3>Education - </h3>
+        <table border="6">
+            <tr>
+                <th>Qualification</th>
+                <th>Institution</th>
+            </tr>
+            <tr>
+                <td>10th</td>
+                <td>DPS</td>
+            </tr>
+            <tr>
+                <td>12th</td>
+                <td>Expert</td>
+            </tr>
+            <tr>
+                <td>BE</td>
+                <td>SCEM</td>
+            </tr>
+        </table>
+        <br>
+        <hr />
+        <h3>Skills - </h3>
+        <ol>
+            <li>C, C++ language</li>
+            <li>Python</li>
+            <li>HTML, CSS & JS</li>
+        </ol>
+        <hr />
+        <h3>Hobbies - </h3>
+        <ul>
+            <li>Swimming</li>
+            <li>Dancing</li>
+            <li>Painting</li>
+        </ul>
+        <hr />
+        <h3>Favourite foods - </h3>
+        <table border="4px">
+            <tr>
+                <th>Veg</th>
+                <th>Non veg</th>
+                <th>Dessert</th>
+            </tr>
+            <tr>
+                <td>Parota</td>
+                <td>Chicken Biryani</td>
+                <td>Ice cream</td>                
+            </tr>
+            <tr>
+                <td>Pulav</td>
+                <td>Shawarma</td>
+                <td>Gulab jamun</td>
+            </tr>
+            <tr>
+                <td>Masala Dosa</td>
+                <td>Kema rice</td>
+                <td>Rasmalai</td>
+            </tr>
+        </table>
+        <br>
+        <hr>
+        <h3>Other Profile Handles - </h3>
+        <a href="https://www.instagram.com/">Instagram</a>
+        &nbsp &nbsp &nbsp &nbsp<a href="https://www.facebook.com/">Facebook</a>
+    </body>
+
+</html>
