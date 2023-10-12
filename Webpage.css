@@ -1,0 +1,105 @@
+// CSS code for creating Web page - Google Sign in Page
+
+#Card{
+    border: 5px;
+    width: 400px;
+    height:500px;
+    padding: 10px;
+    padding-top: 10px;
+    background-color: white;
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+    border-radius: 6px;
+    margin: auto -24px;
+    padding-left: 40px;
+    padding-right: 24px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+body{
+    padding-left: 500px;
+    padding-top: 100px;
+    justify-content: center;
+    vertical-align: middle;    
+    background-color: white;
+}
+#cont1{
+    color: rgb(32,33,36);
+    font-size: 23px;
+    font-family: "Google Sans","Noto Sans Myanmar UI",arial,sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+#cont2{
+    color: rgb(32,33,36);
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.1px;
+    text-align: center;
+}
+#cont3{
+    border-radius: 4px;
+    color: rgb(32,33,36);
+    font-size: 16px;
+    height: 28px;
+    margin: 1px 1px 0 1px;
+    padding: 13px 15px;
+    box-shadow: rgba(228, 230, 233, 0.25) 0px 1px 1px, rgba(248, 249, 251, 0.13) 0px 0px 1px 1px;
+    width: 350px
+    
+
+}
+#cont4{
+    text-align:left;
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    border-radius: 4px;
+    color: rgb(26,115,232);
+    background-color: transparent;
+    font-size: inherit;
+    text-align: left;
+    margin: -2px -3px;
+    padding: 2px 3px;
+    font-size: 14px;
+    text-decoration: none;
+}
+#cont5{
+    padding-bottom: 3px;
+    padding-top: 9px;
+    color: rgb(95,99,104);
+    font-size: 14px;
+    line-height: 1.4286;
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+}
+#cont6{
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    color: rgb(26,115,232);
+    margin: 0 -3px;
+    padding: 0 3px;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size:14px;
+    position: relative;
+}
+#cont7{
+    font-family: roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    color: rgb(26,115,232);
+    text-decoration: none;
+    border-radius: 4px;
+    font-size:14px;
+}
+#cont8{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 4px;
+    font-size: 15px;
+    padding: 20 60px;
+    width: 65px;
+    line-height: 30px;
+}
+#cont9{
+    color: rgb(95,99,104);
+}
+
